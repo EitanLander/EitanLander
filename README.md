@@ -17,9 +17,9 @@
 <p>With years of experience in designing with Photoshop, I've honed my skills to make websites visually appealing. My background in both development and design allows me to bring a holistic approach to every project.</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -31,8 +31,8 @@
   </a>
 </p>
 
-<h3 align="left">Frontend:</h3>
-<p align="left">
+<h3 align="center">Frontend:</h3>
+<p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
@@ -47,8 +47,8 @@
   </a>
 </p>
 
-<h3 align="left">Backend:</h3>
-<p align="left">
+<h3 align="center">Backend:</h3>
+<p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -57,8 +57,8 @@
   </a>
 </p>
 
-<h3 align="left">Database and Server:</h3>
-<p align="left">
+<h3 align="center">Database and Server:</h3>
+<p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
@@ -70,8 +70,8 @@
   </a>
 </p>
 
-<h3 align="left">Design:</h3>
-<p align="left">
+<h3 align="center">Design:</h3>
+<p align="center">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
