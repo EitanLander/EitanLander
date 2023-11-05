@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eitan Lander</h1>
 <h3 align="center">A passionate fullstack developer 🙂</h3>
 
-<h1 align="center"> - 🌍 Visit My Portfolio Website at https://eitanlander.com/ </h1>
+<h1 align="center">🌍 Visit My Portfolio Website at https://eitanlander.com/</h1>
 
 - 📫 How to reach me **eitanlanderpay@gmail.com 📧**
 
