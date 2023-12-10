@@ -81,6 +81,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eitanlander&layout=donut)](https://github.com/eitanlander/)
 
-[![Eitan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@eitanlander)](https://github.com/eitanlander/)
+<a href="https://wakatime.com/badge/user/018c55d7-472d-465d-a140-fccd06774297/project/018c55da-122b-4526-9bc8-dc5ef138fffc"><img src="https://wakatime.com/badge/user/018c55d7-472d-465d-a140-fccd06774297/project/018c55da-122b-4526-9bc8-dc5ef138fffc.svg" alt="wakatime"></a>
 
 <img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
