@@ -83,6 +83,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eitanlander&layout=donut)](https://github.com/eitanlander/)
 
-<img src="https://wakatime.com/share/@eitanlander/b2e77d18-3aea-40c3-9195-84c39b073c4a.png" height="300"/>
+<img src="https://wakatime.com/share/@eitanlander/b2e77d18-3aea-40c3-9195-84c39b073c4a.png" height="200"/>
 
 
