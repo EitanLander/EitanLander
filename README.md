@@ -3,8 +3,6 @@
 
 <h1 align="center">🌍 Visit My Portfolio Website at https://eitanlander.com/</h1>
 
-- 📫 How to reach me **eitanlanderpay@gmail.com 📧**
-
 - ⚡ Fun fact **I Like to Design websites with my photoshop skills , Add special design by me 😊**
 
 <h3 align="left">Connect with me:</h3>
